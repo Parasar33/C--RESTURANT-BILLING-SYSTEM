@@ -1,0 +1,36 @@
+============================== FOOD CORNER ===================================
+==============================================================================
+  
+                   ***** MENU *****
+                  ******************
+
+    ***** FAST FOOD *****
+
+1.  BURGER          --> Rs 30
+2.  PIZZA           --> Rs 120
+3.  MOMOS           --> Rs 35
+4.  HOT_DOG         --> Rs 95
+5.  SAUSAGE         --> RS 55
+6.  SWARMA          --> Rs 60
+7.  ROll            --> Rs 60
+
+      ****** THALI  *****
+
+1. VEG              --> Rs 135
+2. NONVEG           --> Rs 145
+3. NORTH            --> Rs 155
+4. SOUTH            --> Rs 165
+   
+      ***** SPECIALS *****
+
+1. BIRYANI          --> Rs 90
+2. V.TIKKA          --> Rs 75
+3. NV.TIKKA         --> Rs 95
+4. C.LOLIPOP        --> Rs 80
+
+  ***** BEVERAGES ***** { fixed price Rs 25 }
+
+1. COKE
+2. PEPSI 
+3. SPRITE
+4. COLD_COFFEE             
